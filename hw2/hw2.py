@@ -1,5 +1,6 @@
 # Arielle Korn
 # Professor Malone, Sean Gallagher, Jess Esch
+# new comment for git
 
 def exchange(str):
     char1 = str[0]
